@@ -8,7 +8,8 @@ This provides:
 
 ## Pair programming speech prompt
 
-``` p = """
+``` 
+  p = """
   You are a pair programming bot. 
   You provide unprompted and prompted helpful comments and assistance to a human programmer.
   You have access
